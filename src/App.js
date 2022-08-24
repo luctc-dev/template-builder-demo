@@ -1,4 +1,6 @@
+import 'antd/dist/antd.css'
 import '@luctc/template-builder/dist/index.css';
+import 'codemirror/lib/codemirror.css'
 import React, { useRef, useState } from 'react';
 import { Button, Drawer, Space } from 'antd';
 import { ArrowDownOutlined, MobileOutlined } from '@ant-design/icons';
